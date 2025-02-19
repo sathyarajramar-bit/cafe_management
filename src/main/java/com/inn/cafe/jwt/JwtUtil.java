@@ -7,5 +7,6 @@ public class JwtUtil {
 
 	private String secret = "btechdays";
 	
-	public <T>
+	private String test ="";
+	//public <T>
 }

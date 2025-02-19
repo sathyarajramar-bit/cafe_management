@@ -7,6 +7,8 @@ public class JwtUtil {
 
 	private String secret = "btechdays";
 	
-	private String test ="";
+	private String test ="01111";
+	
+	private String test01 ="01111";
 	//public <T>
 }

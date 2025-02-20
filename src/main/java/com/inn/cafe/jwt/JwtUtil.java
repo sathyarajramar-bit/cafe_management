@@ -15,6 +15,6 @@ public class JwtUtil {
 
 	private String secret = "btechdays";
 
-	private String secret = "btechdays_01";
+
 	
 }
